@@ -1,0 +1,251 @@
+movie_name,release_year,genre,lead_actor,director,budget_in_crores,box_office_in_crores,imdb_rating,verdict
+Gully Boy,2019,Drama,Ranveer Singh,Zoya Akhtar,40,238.0,8.0,Hit
+Pathaan,2023,Action,Shah Rukh Khan,Siddharth Anand,250,1050.0,7.0,Blockbuster
+Article 370,2024,Thriller,Yami Gautam,Aditya Suhas Jambhale,20,120.0,8.2,Hit
+Laal Singh Chaddha,2022,Drama,Aamir Khan,Advait Chandan,180,126.0,5.5,Flop
+War,2019,Action,Hrithik Roshan,Siddharth Anand,150,475.0,6.8,Hit
+Brahmastra,2022,Fantasy,Ranbir Kapoor,Ayan Mukerji,400,431.0,5.6,Average
+KGF Chapter 2,2022,Action,Yash,Prashanth Neel,100,1200.0,8.3,Blockbuster
+RRR,2022,Action,Ram Charan,S. S. Rajamouli,550,1200.0,8.5,Blockbuster
+Jawan,2023,Action,Shah Rukh Khan,Atlee,300,1150.0,7.2,Blockbuster
+3 Idiots,2009,Comedy,Aamir Khan,Rajkumar Hirani,55,460.0,8.4,Blockbuster
+Movie_2010_58,2010,Action,Ayushmann Khurrana,Kabir Khan,145,255.4,7.6,Hit
+Movie_2010_280,2010,Drama,Priyanka Chopra,Rohit Shetty,36,20.9,4.7,Disaster
+Movie_2010_259,2010,Action,Kareena Kapoor,Karan Johar,299,884.8,6.0,Hit
+Movie_2010_143,2010,Action,Rajkummar Rao,Anurag Kashyap,236,584.2,4.4,Hit
+Movie_2010_173,2010,Drama,Aamir Khan,Rohit Shetty,69,178.7,5.4,Hit
+Movie_2010_136,2010,Action,Ayushmann Khurrana,Siddharth Anand,294,341.5,8.6,Hit
+Movie_2010_41,2010,Thriller,Tiger Shroff,Ayan Mukerji,205,804.0,7.4,Blockbuster
+Movie_2010_24,2010,Romance,Rajkummar Rao,Kabir Khan,60,337.0,8.3,Blockbuster
+Movie_2010_195,2010,Thriller,Deepika Padukone,Zoya Akhtar,103,273.8,4.7,Hit
+Movie_2010_137,2010,Drama,Priyanka Chopra,Anurag Kashyap,293,1420.4,4.4,Blockbuster
+Movie_2010_195,2010,Thriller,Varun Dhawan,Atlee,132,604.1,8.1,Blockbuster
+Movie_2010_29,2010,Romance,Tiger Shroff,Rajkumar Hirani,181,515.3,3.9,Hit
+Movie_2010_291,2010,Fantasy,Akshay Kumar,Siddharth Anand,222,1286.8,7.0,Blockbuster
+Movie_2010_74,2010,Thriller,Salman Khan,Karan Johar,295,590.8,6.7,Hit
+Movie_2010_299,2010,Biopic,Ranveer Singh,Karan Johar,90,315.7,4.0,Blockbuster
+Movie_2011_25,2011,Drama,Salman Khan,Anurag Kashyap,236,953.0,5.6,Blockbuster
+Movie_2011_240,2011,Thriller,Kareena Kapoor,Rajkumar Hirani,78,355.6,6.5,Blockbuster
+Movie_2011_137,2011,Fantasy,Aamir Khan,Kabir Khan,242,330.3,3.5,Hit
+Movie_2011_135,2011,Comedy,Kareena Kapoor,Sanjay Leela Bhansali,172,951.9,6.3,Blockbuster
+Movie_2011_102,2011,Comedy,Ranveer Singh,Anurag Kashyap,296,1840.0,8.6,Blockbuster
+Movie_2011_1,2011,Fantasy,Deepika Padukone,Rajkumar Hirani,77,467.2,8.3,Blockbuster
+Movie_2011_158,2011,Romance,Shah Rukh Khan,Karan Johar,60,55.3,6.2,Flop
+Movie_2011_36,2011,Comedy,Salman Khan,Siddharth Anand,104,209.8,8.3,Hit
+Movie_2011_217,2011,Romance,Varun Dhawan,Atlee,122,579.4,5.7,Blockbuster
+Movie_2011_192,2011,Musical,Varun Dhawan,Atlee,251,285.7,4.7,Hit
+Movie_2011_174,2011,Action,Priyanka Chopra,Atlee,137,546.6,3.5,Blockbuster
+Movie_2011_31,2011,Romance,Aamir Khan,Rajkumar Hirani,189,157.3,4.8,Flop
+Movie_2011_249,2011,Romance,Kareena Kapoor,Anurag Kashyap,262,493.2,6.1,Hit
+Movie_2011_209,2011,Romance,Aamir Khan,Sanjay Leela Bhansali,240,614.7,5.8,Hit
+Movie_2011_28,2011,Drama,Shah Rukh Khan,Rohit Shetty,193,1019.7,4.1,Blockbuster
+Movie_2012_99,2012,Romance,Kareena Kapoor,Siddharth Anand,91,270.6,5.0,Hit
+Movie_2012_128,2012,Drama,Deepika Padukone,Atlee,70,49.6,9.0,Disaster
+Movie_2012_8,2012,Drama,Varun Dhawan,Karan Johar,105,302.3,6.1,Hit
+Movie_2012_206,2012,Action,Salman Khan,Rohit Shetty,21,134.6,5.0,Blockbuster
+Movie_2012_233,2012,Thriller,Alia Bhatt,Atlee,269,361.6,5.1,Hit
+Movie_2012_30,2012,Action,Ayushmann Khurrana,Zoya Akhtar,49,34.6,6.1,Disaster
+Movie_2012_272,2012,Comedy,Shah Rukh Khan,Atlee,61,341.2,3.9,Blockbuster
+Movie_2012_35,2012,Romance,Alia Bhatt,Sanjay Leela Bhansali,146,574.0,3.7,Blockbuster
+Movie_2012_42,2012,Biopic,Hrithik Roshan,Ayan Mukerji,287,668.7,4.9,Hit
+Movie_2012_161,2012,Romance,Ranbir Kapoor,Rohit Shetty,87,391.3,5.1,Blockbuster
+Movie_2012_162,2012,Drama,Shah Rukh Khan,Siddharth Anand,71,60.1,4.7,Flop
+Movie_2012_136,2012,Comedy,Varun Dhawan,Zoya Akhtar,55,317.0,5.5,Blockbuster
+Movie_2012_81,2012,Musical,Tiger Shroff,Atlee,174,718.8,8.9,Blockbuster
+Movie_2012_271,2012,Action,Hrithik Roshan,Atlee,173,1052.5,4.1,Blockbuster
+Movie_2012_69,2012,Thriller,Aamir Khan,Sanjay Leela Bhansali,99,204.1,6.8,Hit
+Movie_2013_176,2013,Romance,Hrithik Roshan,Kabir Khan,278,939.7,8.5,Blockbuster
+Movie_2013_27,2013,Drama,Hrithik Roshan,Rohit Shetty,161,107.7,5.3,Disaster
+Movie_2013_67,2013,Thriller,Salman Khan,Siddharth Anand,238,909.5,4.1,Blockbuster
+Movie_2013_77,2013,Action,Tiger Shroff,Zoya Akhtar,95,287.1,3.7,Blockbuster
+Movie_2013_187,2013,Action,Varun Dhawan,Zoya Akhtar,127,579.2,7.2,Blockbuster
+Movie_2013_182,2013,Biopic,Priyanka Chopra,Anurag Kashyap,141,800.0,8.9,Blockbuster
+Movie_2013_91,2013,Biopic,Shah Rukh Khan,Anurag Kashyap,190,982.8,5.8,Blockbuster
+Movie_2013_128,2013,Thriller,Salman Khan,Sanjay Leela Bhansali,215,1229.8,8.2,Blockbuster
+Movie_2013_114,2013,Romance,Tiger Shroff,Siddharth Anand,199,450.1,7.9,Hit
+Movie_2013_117,2013,Romance,Shah Rukh Khan,Karan Johar,224,538.1,8.3,Hit
+Movie_2013_143,2013,Fantasy,Hrithik Roshan,Atlee,224,1018.1,8.1,Blockbuster
+Movie_2013_170,2013,Action,Aamir Khan,Kabir Khan,111,437.5,8.9,Blockbuster
+Movie_2013_20,2013,Drama,Priyanka Chopra,Rohit Shetty,196,949.4,5.2,Blockbuster
+Movie_2013_262,2013,Drama,Alia Bhatt,Ayan Mukerji,117,228.6,7.4,Hit
+Movie_2013_1,2013,Romance,Ranveer Singh,Rohit Shetty,55,340.3,8.6,Blockbuster
+Movie_2014_161,2014,Drama,Ayushmann Khurrana,Kabir Khan,279,638.0,5.7,Hit
+Movie_2014_207,2014,Thriller,Kareena Kapoor,Anurag Kashyap,118,349.8,8.7,Hit
+Movie_2014_90,2014,Thriller,Alia Bhatt,Atlee,20,45.1,4.7,Hit
+Movie_2014_297,2014,Fantasy,Deepika Padukone,Siddharth Anand,246,1112.2,6.3,Blockbuster
+Movie_2014_87,2014,Drama,Ranbir Kapoor,Atlee,191,185.2,8.7,Flop
+Movie_2014_121,2014,Thriller,Akshay Kumar,Karan Johar,95,52.2,4.8,Disaster
+Movie_2014_244,2014,Drama,Deepika Padukone,Rohit Shetty,119,569.0,5.6,Blockbuster
+Movie_2014_205,2014,Romance,Salman Khan,Rajkumar Hirani,74,381.0,4.7,Blockbuster
+Movie_2014_266,2014,Musical,Shah Rukh Khan,Atlee,147,881.5,4.2,Blockbuster
+Movie_2014_69,2014,Musical,Hrithik Roshan,Atlee,182,1127.5,8.4,Blockbuster
+Movie_2014_259,2014,Biopic,Tiger Shroff,Atlee,248,1456.5,7.6,Blockbuster
+Movie_2014_244,2014,Musical,Ranbir Kapoor,Karan Johar,161,816.5,6.4,Blockbuster
+Movie_2014_123,2014,Thriller,Deepika Padukone,Sanjay Leela Bhansali,166,303.8,5.3,Hit
+Movie_2014_277,2014,Drama,Salman Khan,Anurag Kashyap,138,377.6,4.3,Hit
+Movie_2014_110,2014,Drama,Alia Bhatt,Rohit Shetty,189,701.2,5.8,Blockbuster
+Movie_2015_106,2015,Biopic,Alia Bhatt,Ayan Mukerji,30,168.8,7.7,Blockbuster
+Movie_2015_195,2015,Musical,Shah Rukh Khan,Zoya Akhtar,172,859.3,8.2,Blockbuster
+Movie_2015_215,2015,Romance,Deepika Padukone,Karan Johar,159,486.3,3.7,Blockbuster
+Movie_2015_173,2015,Biopic,Ayushmann Khurrana,Anurag Kashyap,259,1556.4,8.9,Blockbuster
+Movie_2015_274,2015,Action,Varun Dhawan,Rohit Shetty,33,30.1,5.9,Flop
+Movie_2015_237,2015,Comedy,Shah Rukh Khan,Kabir Khan,214,512.9,6.0,Hit
+Movie_2015_173,2015,Biopic,Ranbir Kapoor,Rohit Shetty,149,818.5,6.1,Blockbuster
+Movie_2015_277,2015,Action,Ranveer Singh,Karan Johar,55,284.1,7.1,Blockbuster
+Movie_2015_16,2015,Romance,Akshay Kumar,Rajkumar Hirani,98,181.8,6.1,Hit
+Movie_2015_59,2015,Romance,Deepika Padukone,Kabir Khan,208,296.1,6.8,Hit
+Movie_2015_59,2015,Comedy,Ranbir Kapoor,Sanjay Leela Bhansali,33,200.2,6.7,Blockbuster
+Movie_2015_193,2015,Biopic,Ayushmann Khurrana,Karan Johar,58,232.7,8.1,Blockbuster
+Movie_2015_125,2015,Drama,Ayushmann Khurrana,Kabir Khan,81,425.8,6.6,Blockbuster
+Movie_2015_22,2015,Fantasy,Kareena Kapoor,Rohit Shetty,209,171.5,7.1,Flop
+Movie_2015_7,2015,Biopic,Tiger Shroff,Siddharth Anand,74,225.3,5.5,Blockbuster
+Movie_2016_236,2016,Comedy,Alia Bhatt,Anurag Kashyap,287,1805.1,5.0,Blockbuster
+Movie_2016_276,2016,Musical,Deepika Padukone,Rohit Shetty,157,371.5,4.9,Hit
+Movie_2016_45,2016,Thriller,Varun Dhawan,Siddharth Anand,144,716.8,6.6,Blockbuster
+Movie_2016_195,2016,Fantasy,Shah Rukh Khan,Siddharth Anand,186,280.7,4.7,Hit
+Movie_2016_133,2016,Fantasy,Ranbir Kapoor,Ayan Mukerji,161,610.2,6.3,Blockbuster
+Movie_2016_98,2016,Drama,Akshay Kumar,Rohit Shetty,270,1022.4,4.8,Blockbuster
+Movie_2016_244,2016,Musical,Deepika Padukone,Rajkumar Hirani,67,147.1,5.7,Hit
+Movie_2016_125,2016,Thriller,Hrithik Roshan,Ayan Mukerji,208,683.7,6.4,Blockbuster
+Movie_2016_218,2016,Fantasy,Ranveer Singh,Siddharth Anand,158,358.7,4.8,Hit
+Movie_2016_99,2016,Fantasy,Aamir Khan,Atlee,114,178.8,7.6,Hit
+Movie_2016_142,2016,Thriller,Aamir Khan,Karan Johar,171,305.7,4.5,Hit
+Movie_2016_8,2016,Comedy,Ranbir Kapoor,Rajkumar Hirani,47,177.4,7.3,Blockbuster
+Movie_2016_65,2016,Musical,Aamir Khan,Rajkumar Hirani,165,538.4,5.9,Blockbuster
+Movie_2016_95,2016,Action,Ranbir Kapoor,Siddharth Anand,78,422.4,5.7,Blockbuster
+Movie_2016_38,2016,Action,Salman Khan,Anurag Kashyap,175,160.9,4.9,Flop
+Movie_2017_286,2017,Biopic,Priyanka Chopra,Ayan Mukerji,135,692.8,5.6,Blockbuster
+Movie_2017_227,2017,Thriller,Tiger Shroff,Ayan Mukerji,239,540.8,6.9,Hit
+Movie_2017_51,2017,Romance,Hrithik Roshan,Karan Johar,155,686.4,4.4,Blockbuster
+Movie_2017_89,2017,Drama,Salman Khan,Rajkumar Hirani,229,720.9,6.8,Blockbuster
+Movie_2017_150,2017,Action,Akshay Kumar,Kabir Khan,164,768.9,6.0,Blockbuster
+Movie_2017_120,2017,Thriller,Rajkummar Rao,Ayan Mukerji,121,362.2,6.5,Hit
+Movie_2017_77,2017,Thriller,Tiger Shroff,Anurag Kashyap,56,42.8,7.9,Disaster
+Movie_2017_292,2017,Thriller,Deepika Padukone,Sanjay Leela Bhansali,259,1191.6,7.3,Blockbuster
+Movie_2017_140,2017,Musical,Deepika Padukone,Sanjay Leela Bhansali,40,233.0,7.5,Blockbuster
+Movie_2017_129,2017,Action,Aamir Khan,Karan Johar,30,194.9,7.2,Blockbuster
+Movie_2017_138,2017,Action,Rajkummar Rao,Anurag Kashyap,260,927.1,5.9,Blockbuster
+Movie_2017_143,2017,Comedy,Priyanka Chopra,Rohit Shetty,271,1710.3,6.1,Blockbuster
+Movie_2017_210,2017,Fantasy,Ranveer Singh,Sanjay Leela Bhansali,102,246.0,7.3,Hit
+Movie_2017_148,2017,Biopic,Tiger Shroff,Atlee,38,120.6,5.2,Blockbuster
+Movie_2017_166,2017,Drama,Rajkummar Rao,Rohit Shetty,283,1537.3,3.5,Blockbuster
+Movie_2018_278,2018,Musical,Alia Bhatt,Rajkumar Hirani,116,413.2,6.9,Blockbuster
+Movie_2018_256,2018,Musical,Rajkummar Rao,Rajkumar Hirani,124,251.6,4.2,Hit
+Movie_2018_148,2018,Musical,Varun Dhawan,Siddharth Anand,82,47.2,7.0,Disaster
+Movie_2018_123,2018,Comedy,Ranbir Kapoor,Atlee,27,101.8,4.0,Blockbuster
+Movie_2018_59,2018,Musical,Aamir Khan,Anurag Kashyap,275,1674.5,5.1,Blockbuster
+Movie_2018_140,2018,Biopic,Tiger Shroff,Siddharth Anand,261,492.4,6.5,Hit
+Movie_2018_197,2018,Romance,Varun Dhawan,Ayan Mukerji,280,1386.7,4.3,Blockbuster
+Movie_2018_36,2018,Thriller,Rajkummar Rao,Rohit Shetty,194,1183.2,6.3,Blockbuster
+Movie_2018_2,2018,Thriller,Ayushmann Khurrana,Kabir Khan,270,1533.1,6.0,Blockbuster
+Movie_2018_248,2018,Fantasy,Ranveer Singh,Atlee,298,804.9,8.6,Hit
+Movie_2018_97,2018,Romance,Priyanka Chopra,Rohit Shetty,139,781.4,5.8,Blockbuster
+Movie_2018_163,2018,Musical,Ayushmann Khurrana,Rohit Shetty,217,1395.2,7.9,Blockbuster
+Movie_2018_78,2018,Musical,Shah Rukh Khan,Anurag Kashyap,277,1742.0,5.3,Blockbuster
+Movie_2018_52,2018,Musical,Aamir Khan,Atlee,253,124.9,4.3,Disaster
+Movie_2018_80,2018,Drama,Deepika Padukone,Kabir Khan,193,811.0,5.7,Blockbuster
+Movie_2019_42,2019,Fantasy,Tiger Shroff,Atlee,214,1331.1,6.9,Blockbuster
+Movie_2019_250,2019,Action,Priyanka Chopra,Sanjay Leela Bhansali,140,595.0,8.6,Blockbuster
+Movie_2019_117,2019,Drama,Alia Bhatt,Sanjay Leela Bhansali,71,220.6,7.3,Blockbuster
+Movie_2019_15,2019,Action,Ranveer Singh,Rajkumar Hirani,170,439.7,5.9,Hit
+Movie_2019_126,2019,Biopic,Priyanka Chopra,Anurag Kashyap,107,157.1,6.9,Hit
+Movie_2019_196,2019,Romance,Deepika Padukone,Ayan Mukerji,93,168.9,7.0,Hit
+Movie_2019_236,2019,Thriller,Hrithik Roshan,Rajkumar Hirani,258,1521.5,7.2,Blockbuster
+Movie_2019_81,2019,Drama,Deepika Padukone,Zoya Akhtar,173,743.5,5.8,Blockbuster
+Movie_2019_129,2019,Musical,Tiger Shroff,Kabir Khan,121,786.0,8.2,Blockbuster
+Movie_2019_55,2019,Romance,Alia Bhatt,Ayan Mukerji,203,793.0,9.0,Blockbuster
+Movie_2019_152,2019,Action,Tiger Shroff,Rohit Shetty,160,71.9,8.3,Disaster
+Movie_2019_26,2019,Musical,Tiger Shroff,Kabir Khan,137,562.1,5.4,Blockbuster
+Movie_2019_98,2019,Thriller,Hrithik Roshan,Anurag Kashyap,69,407.8,7.1,Blockbuster
+Movie_2019_159,2019,Musical,Shah Rukh Khan,Ayan Mukerji,206,1002.7,4.0,Blockbuster
+Movie_2019_152,2019,Fantasy,Ayushmann Khurrana,Rohit Shetty,109,177.1,7.8,Hit
+Movie_2020_188,2020,Thriller,Tiger Shroff,Anurag Kashyap,151,902.3,8.7,Blockbuster
+Movie_2020_152,2020,Fantasy,Rajkummar Rao,Sanjay Leela Bhansali,259,1624.9,4.3,Blockbuster
+Movie_2020_116,2020,Biopic,Tiger Shroff,Atlee,207,196.8,5.7,Flop
+Movie_2020_136,2020,Drama,Deepika Padukone,Zoya Akhtar,154,610.7,8.0,Blockbuster
+Movie_2020_191,2020,Drama,Hrithik Roshan,Karan Johar,261,144.2,8.4,Disaster
+Movie_2020_288,2020,Fantasy,Varun Dhawan,Ayan Mukerji,133,578.6,7.0,Blockbuster
+Movie_2020_238,2020,Thriller,Hrithik Roshan,Rohit Shetty,79,99.0,8.7,Hit
+Movie_2020_156,2020,Musical,Aamir Khan,Sanjay Leela Bhansali,140,813.7,4.2,Blockbuster
+Movie_2020_233,2020,Fantasy,Hrithik Roshan,Atlee,234,932.0,7.5,Blockbuster
+Movie_2020_213,2020,Drama,Tiger Shroff,Siddharth Anand,228,1397.2,5.0,Blockbuster
+Movie_2020_190,2020,Romance,Deepika Padukone,Siddharth Anand,140,786.6,4.0,Blockbuster
+Movie_2020_189,2020,Fantasy,Shah Rukh Khan,Rohit Shetty,161,250.8,4.2,Hit
+Movie_2020_233,2020,Drama,Hrithik Roshan,Karan Johar,30,21.3,5.3,Disaster
+Movie_2020_65,2020,Romance,Aamir Khan,Atlee,126,501.1,8.0,Blockbuster
+Movie_2020_120,2020,Fantasy,Rajkummar Rao,Anurag Kashyap,21,43.9,8.9,Hit
+Movie_2021_67,2021,Thriller,Rajkummar Rao,Anurag Kashyap,76,336.9,3.6,Blockbuster
+Movie_2021_8,2021,Fantasy,Rajkummar Rao,Karan Johar,185,91.8,5.0,Disaster
+Movie_2021_65,2021,Biopic,Kareena Kapoor,Sanjay Leela Bhansali,52,171.9,7.8,Blockbuster
+Movie_2021_263,2021,Drama,Deepika Padukone,Atlee,133,820.2,3.7,Blockbuster
+Movie_2021_267,2021,Thriller,Deepika Padukone,Rajkumar Hirani,51,331.1,8.2,Blockbuster
+Movie_2021_219,2021,Drama,Deepika Padukone,Siddharth Anand,57,335.5,5.3,Blockbuster
+Movie_2021_76,2021,Drama,Salman Khan,Kabir Khan,300,1423.2,5.6,Blockbuster
+Movie_2021_272,2021,Thriller,Deepika Padukone,Atlee,240,241.2,7.4,Hit
+Movie_2021_283,2021,Romance,Alia Bhatt,Siddharth Anand,136,397.7,8.1,Hit
+Movie_2021_205,2021,Biopic,Ayushmann Khurrana,Sanjay Leela Bhansali,180,540.6,7.2,Blockbuster
+Movie_2021_192,2021,Comedy,Hrithik Roshan,Siddharth Anand,54,51.6,4.0,Flop
+Movie_2021_222,2021,Drama,Ayushmann Khurrana,Zoya Akhtar,86,326.3,6.7,Blockbuster
+Movie_2021_288,2021,Fantasy,Hrithik Roshan,Sanjay Leela Bhansali,230,588.1,7.2,Hit
+Movie_2021_217,2021,Action,Ranbir Kapoor,Ayan Mukerji,179,455.6,6.7,Hit
+Movie_2021_109,2021,Comedy,Hrithik Roshan,Siddharth Anand,134,746.2,5.4,Blockbuster
+Movie_2022_285,2022,Fantasy,Aamir Khan,Kabir Khan,135,718.7,8.1,Blockbuster
+Movie_2022_286,2022,Action,Priyanka Chopra,Kabir Khan,34,51.0,7.4,Hit
+Movie_2022_159,2022,Fantasy,Ranveer Singh,Rajkumar Hirani,112,639.1,6.6,Blockbuster
+Movie_2022_206,2022,Drama,Salman Khan,Rajkumar Hirani,66,326.8,4.7,Blockbuster
+Movie_2022_215,2022,Musical,Ranveer Singh,Anurag Kashyap,209,480.9,5.3,Hit
+Movie_2022_291,2022,Drama,Varun Dhawan,Rajkumar Hirani,99,134.7,6.9,Hit
+Movie_2022_42,2022,Thriller,Deepika Padukone,Rohit Shetty,268,1099.6,5.8,Blockbuster
+Movie_2022_111,2022,Drama,Ranveer Singh,Rohit Shetty,76,161.7,7.2,Hit
+Movie_2022_250,2022,Thriller,Shah Rukh Khan,Karan Johar,222,1421.9,3.8,Blockbuster
+Movie_2022_105,2022,Thriller,Akshay Kumar,Anurag Kashyap,150,324.8,4.2,Hit
+Movie_2022_255,2022,Biopic,Salman Khan,Anurag Kashyap,214,780.8,4.8,Blockbuster
+Movie_2022_287,2022,Fantasy,Aamir Khan,Rohit Shetty,41,125.5,6.0,Blockbuster
+Movie_2022_40,2022,Fantasy,Priyanka Chopra,Rohit Shetty,227,1073.2,5.8,Blockbuster
+Movie_2022_59,2022,Biopic,Shah Rukh Khan,Zoya Akhtar,107,565.8,6.9,Blockbuster
+Movie_2022_186,2022,Drama,Alia Bhatt,Sanjay Leela Bhansali,144,440.3,5.7,Blockbuster
+Movie_2023_41,2023,Biopic,Tiger Shroff,Kabir Khan,193,338.1,7.8,Hit
+Movie_2023_40,2023,Drama,Kareena Kapoor,Atlee,119,705.2,5.4,Blockbuster
+Movie_2023_76,2023,Romance,Aamir Khan,Anurag Kashyap,151,242.1,6.8,Hit
+Movie_2023_39,2023,Comedy,Rajkummar Rao,Siddharth Anand,257,1285.5,7.7,Blockbuster
+Movie_2023_230,2023,Fantasy,Tiger Shroff,Zoya Akhtar,97,299.0,6.1,Blockbuster
+Movie_2023_156,2023,Thriller,Priyanka Chopra,Rajkumar Hirani,200,699.0,5.2,Blockbuster
+Movie_2023_232,2023,Action,Shah Rukh Khan,Zoya Akhtar,166,144.1,8.3,Flop
+Movie_2023_47,2023,Biopic,Deepika Padukone,Ayan Mukerji,41,128.9,8.0,Blockbuster
+Movie_2023_97,2023,Fantasy,Priyanka Chopra,Siddharth Anand,276,364.4,3.8,Hit
+Movie_2023_53,2023,Fantasy,Ayushmann Khurrana,Sanjay Leela Bhansali,278,1206.9,3.7,Blockbuster
+Movie_2023_225,2023,Musical,Kareena Kapoor,Atlee,101,264.6,8.5,Hit
+Movie_2023_199,2023,Biopic,Rajkummar Rao,Zoya Akhtar,46,239.9,7.1,Blockbuster
+Movie_2023_34,2023,Fantasy,Aamir Khan,Atlee,217,462.9,7.5,Hit
+Movie_2023_77,2023,Fantasy,Aamir Khan,Ayan Mukerji,92,551.3,5.2,Blockbuster
+Movie_2023_201,2023,Comedy,Priyanka Chopra,Sanjay Leela Bhansali,178,678.1,7.0,Blockbuster
+Movie_2024_169,2024,Comedy,Hrithik Roshan,Atlee,67,290.8,5.8,Blockbuster
+Movie_2024_186,2024,Action,Ranveer Singh,Kabir Khan,112,694.6,5.4,Blockbuster
+Movie_2024_249,2024,Romance,Akshay Kumar,Anurag Kashyap,99,86.2,8.1,Flop
+Movie_2024_52,2024,Action,Hrithik Roshan,Zoya Akhtar,87,351.8,4.3,Blockbuster
+Movie_2024_93,2024,Comedy,Ayushmann Khurrana,Siddharth Anand,42,122.1,7.2,Hit
+Movie_2024_122,2024,Musical,Priyanka Chopra,Kabir Khan,249,455.0,4.8,Hit
+Movie_2024_241,2024,Romance,Ranveer Singh,Ayan Mukerji,245,788.0,5.0,Blockbuster
+Movie_2024_196,2024,Biopic,Salman Khan,Karan Johar,90,515.3,3.8,Blockbuster
+Movie_2024_247,2024,Fantasy,Kareena Kapoor,Sanjay Leela Bhansali,284,1588.2,5.1,Blockbuster
+Movie_2024_83,2024,Thriller,Deepika Padukone,Atlee,95,519.6,4.0,Blockbuster
+Movie_2024_114,2024,Musical,Varun Dhawan,Zoya Akhtar,33,96.7,5.7,Hit
+Movie_2024_192,2024,Romance,Alia Bhatt,Sanjay Leela Bhansali,211,373.4,5.3,Hit
+Movie_2024_51,2024,Fantasy,Rajkummar Rao,Anurag Kashyap,90,57.0,8.5,Disaster
+Movie_2024_242,2024,Comedy,Rajkummar Rao,Siddharth Anand,249,1034.3,8.5,Blockbuster
+Movie_2024_10,2024,Thriller,Akshay Kumar,Anurag Kashyap,300,1840.6,6.8,Blockbuster
+Movie_2025_217,2025,Drama,Rajkummar Rao,Kabir Khan,141,315.4,3.8,Hit
+Movie_2025_215,2025,Musical,Aamir Khan,Sanjay Leela Bhansali,275,1111.0,3.6,Blockbuster
+Movie_2025_264,2025,Romance,Ayushmann Khurrana,Anurag Kashyap,169,510.1,6.9,Blockbuster
+Movie_2025_124,2025,Biopic,Salman Khan,Sanjay Leela Bhansali,288,1827.5,3.9,Blockbuster
+Movie_2025_270,2025,Action,Alia Bhatt,Siddharth Anand,42,179.7,8.9,Blockbuster
+Movie_2025_130,2025,Action,Ranveer Singh,Sanjay Leela Bhansali,196,366.7,7.1,Hit
+Movie_2025_54,2025,Fantasy,Salman Khan,Rajkumar Hirani,200,746.1,8.0,Blockbuster
+Movie_2025_90,2025,Musical,Ayushmann Khurrana,Siddharth Anand,113,604.6,3.8,Blockbuster
+Movie_2025_235,2025,Action,Ranbir Kapoor,Karan Johar,42,219.5,8.4,Blockbuster
+Movie_2025_162,2025,Thriller,Kareena Kapoor,Rohit Shetty,298,979.7,3.7,Blockbuster
+Movie_2025_98,2025,Thriller,Ranveer Singh,Rajkumar Hirani,189,390.6,7.9,Hit
+Movie_2025_224,2025,Biopic,Ayushmann Khurrana,Siddharth Anand,217,535.6,4.5,Hit
+Movie_2025_255,2025,Fantasy,Varun Dhawan,Atlee,156,824.8,7.5,Blockbuster
+Movie_2025_41,2025,Biopic,Priyanka Chopra,Anurag Kashyap,299,655.4,4.1,Hit
+Movie_2025_168,2025,Thriller,Ranbir Kapoor,Siddharth Anand,238,337.1,5.9,Hit
