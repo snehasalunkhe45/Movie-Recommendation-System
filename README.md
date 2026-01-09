@@ -14,7 +14,7 @@ An AI-powered movie recommendation system featuring 5,000+ Hollywood and Bollywo
 
 ## 🚀 Live Preview
 ### Home Screen
-![Landing Page](assets/landing_page.png)
+![Landing Page](assets/Landing_page.png)
 
 ### Movie Insights & Details
 ![Movie Details](assets/movie_details.png)
