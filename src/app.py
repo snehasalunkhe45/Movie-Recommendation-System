@@ -14,47 +14,45 @@ st.markdown("""
         background-attachment: fixed;
     }
 
-    /* 2. SIDEBAR STYLING */
-    section[data-testid="stSidebar"] {
-        background-color: #263238 !important; 
-        border-right: 1px solid #37474f;
+    /* 2. SIDEBAR STYLING (Matching Title Color #1A1A1A) */
+    [data-testid="stSidebar"] {
+        background-color: #1A1A1A !important; 
+        border-right: 1px solid #333333;
     }
-    
-    /* UNIVERSAL TOGGLE BUTTON FIX (Visible on Main Page & Sidebar) */
-    /* This targets the button regardless of where it is */
+
+    /* Sidebar Text (White for high contrast on dark grey) */
+    section[data-testid="stSidebar"] h2, 
+    section[data-testid="stSidebar"] p,
+    section[data-testid="stSidebar"] .stMarkdown,
+    .history-item {
+        color: #FFFFFF !important; 
+        font-family: 'Inter', sans-serif;
+        font-weight: 400 !important;
+    }
+
+    .history-item {
+        transition: 0.3s;
+        margin-bottom: 5px;
+        opacity: 0.8;
+    }
+
+    .history-item:hover {
+        opacity: 1;
+        padding-left: 5px;
+        cursor: pointer;
+    }
+
+    /* UNIVERSAL TOGGLE BUTTON FIX */
     [data-testid="stSidebarCollapseButton"] {
-        background-color: #263238 !important; /* Matte dark background for the button itself */
+        background-color: #333333 !important; 
         border-radius: 8px !important;
-        border: 1px solid #cfd8dc !important;
-        box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.4); /* Subtle Glow */
+        border: 1px solid #444444 !important;
         top: 10px !important;
         left: 10px !important;
     }
 
-    /* The Arrow/Toggle Icon */
     [data-testid="stSidebarCollapseButton"] svg {
-        fill: #F5F5F5 !important; /* Off-White arrow */
-        filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.8));
-    }
-
-    /* Sidebar Text visibility */
-    section[data-testid="stSidebar"] h2, 
-    section[data-testid="stSidebar"] p,
-    section[data-testid="stSidebar"] .stMarkdown {
-        color: #cfd8dc !important; 
-        font-family: 'Inter', sans-serif;
-        font-weight: 300 !important;
-    }
-
-    .history-item {
-        color: #cfd8dc;
-        transition: 0.3s;
-        margin-bottom: 5px;
-    }
-
-    .history-item:hover {
-        color: #ffffff !important;
-        padding-left: 5px;
+        fill: #F5F5F5 !important;
     }
 
     /* 3. Main Page Title Animations */
@@ -85,7 +83,7 @@ st.markdown("""
     p, span, label, .stMarkdown { color: #212121 !important; font-weight: 500; }
 
     /* 5. Buttons & Elements */
-    .stImage {
+    .stImage img {
         border-radius: 12px;
         box-shadow: 0px 8px 16px rgba(0,0,0,0.12);
     }
@@ -101,6 +99,7 @@ st.markdown("""
     
     .stButton>button:hover {
         background-color: #607d8b;
+        color: white;
     }
 
     .footer {
@@ -146,7 +145,7 @@ try:
     movies = pickle.load(open(MODEL_PATH / 'movie_list.pkl', 'rb'))
     similarity = pickle.load(open(MODEL_PATH / 'similarity.pkl', 'rb'))
 except Exception:
-    st.error("Error: Pickle files missing.")
+    st.error("Error: Pickle files missing from the 'model' folder.")
     st.stop()
 
 # --- 4. SIDEBAR (Search History) ---
